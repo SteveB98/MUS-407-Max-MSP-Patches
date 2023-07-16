@@ -1,4 +1,4 @@
-# MUS-407-Max-MSP-Patches
+# MUS 407 Max/MSP Patches
 # Purpose: 
 This repository contains the final project and some other assignments from taking MUS 407, a computer music seminar offered at the University of Victoria that focuses 
 on:
